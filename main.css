@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+#carousel-container {
+  position: absolute ;
+  top: 500px;
+  left: 50%;
+}
